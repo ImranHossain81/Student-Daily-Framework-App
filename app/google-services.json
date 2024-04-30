@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1008729656391",
+    "project_id": "student-daily-framework",
+    "storage_bucket": "student-daily-framework.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008729656391:android:7104163d02115606edf562",
+        "android_client_info": {
+          "package_name": "com.example.studentdailyframework"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTLrK8tZFmOl3u0BXX0SS9udeBnfL3y04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
